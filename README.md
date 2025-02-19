@@ -1,5 +1,6 @@
+<img src='./TROLL.jpg' alt='TROLLBANNER'>
 # Fenêtre Troll
-  <img src='./TROLL.jpg' alt='TROLLBANNER'>
+  
 Un script Python utilisant Tkinter pour créer une fenêtre "troll" qui se déplace de manière aléatoire, affiche des images surprises et lance un effet "Matrix" en plein écran.
 
 ## Fonctionnalités
